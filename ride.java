@@ -1,4 +1,3 @@
-package usacocomp;
 import java.io.*;
 /*
 ID: rajoshi1
