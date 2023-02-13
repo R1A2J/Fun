@@ -54,3 +54,4 @@ public class gift1 {
         out.close();
     }
 }
+//a = 10, i = 0, names = {mitnik, poulsen, tanner, stallman, ritchie, baran, spafford, farmer, venema, linus}, kk = 0, j = "mitnik"
