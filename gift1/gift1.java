@@ -55,5 +55,5 @@ public class gift1 {
     }
 }
 /*a = 10, i = 0, names = {mitnik, poulsen, tanner, stallman, ritchie, baran, spafford, farmer, venema, linus}, kk = 1, j = "mitnik", aaa = 300, b = 3,
-price = {-300, 100, 0, 0, 0, 0, 0, 0, 0, 0}, jj = "poulsen", iii = 1
+price = {-300, 100, 100, 0, 0, 100, 0, 0, 0, 0}, jj = "poulsen", iii = 1
 */
