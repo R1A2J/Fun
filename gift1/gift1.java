@@ -54,4 +54,6 @@ public class gift1 {
         out.close();
     }
 }
-//a = 10, i = 0, names = {mitnik, poulsen, tanner, stallman, ritchie, baran, spafford, farmer, venema, linus}, kk = 0, j = "mitnik"
+/*a = 10, i = 0, names = {mitnik, poulsen, tanner, stallman, ritchie, baran, spafford, farmer, venema, linus}, kk = 1, j = "mitnik", aaa = 300, b = 3,
+price = {-300, 100, 0, 0, 0, 0, 0, 0, 0, 0}, jj = "poulsen", iii = 1
+*/
